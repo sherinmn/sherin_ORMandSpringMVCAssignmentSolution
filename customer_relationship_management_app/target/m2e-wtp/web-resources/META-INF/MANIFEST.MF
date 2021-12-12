@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: mac
+Build-Jdk: 16.0.1
+Implementation-Title: customer_relationship_management_app Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.great.learning
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
